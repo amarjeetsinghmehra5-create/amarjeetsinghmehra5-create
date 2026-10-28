@@ -33,3 +33,4 @@ A blogging platform where users can sign up, log in, write, edit and delete thei
 ## 📫 Contact
 
 - Email: [amarjeetsinghmehra5@gmail.com](mailto:amarjeetsinghmehra5@gmail.com)
+- Linkdin: www.linkedin.com/in/amarjeet-singh-3168b426a
